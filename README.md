@@ -1,6 +1,19 @@
 # Semana JS Expert 3.0 
 Construindo um chat multiplataforma usando linha de comando e JavaScript Avançado
 
+- *Aula 01* 
+    - Criando interfaces em programs de linha de comando com o pacote Blessed (npm blessed) para estilizar o terminal:
+    - Design Pattern: Builder e Fluent Interface
+
+- *Aula 02* 
+    - Trabalhando com sockets http e arquitetura orientada a eventos:
+
+- *Aula 03* 
+    - Atualização de dados em tempo real (dados de atividade, mensagens e usuários online)
+
+- *Aula 04*  
+    - Finalização do app
+
 ## :zap: Comandos para executar
 
 ```bash
